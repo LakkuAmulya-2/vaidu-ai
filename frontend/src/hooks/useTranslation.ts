@@ -1,0 +1,22 @@
+import { useTranslation as useI18nextTranslation } from 'react-i18next';
+
+export const useTranslation = () => {
+  const { t, i18n } = useI18nextTranslation();
+
+  const translate = (key: string, options?: any): string => {
+    return t(key, options);
+  };
+
+  const changeLanguage = (lng: string) => {
+    i18n.changeLanguage(lng);
+  };
+
+  const currentLanguage = i18n.language;
+
+  return {
+    t: translate,
+    changeLanguage,
+    currentLanguage,
+    i18n,
+  };
+};

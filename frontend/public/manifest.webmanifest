@@ -1,0 +1,12 @@
+{
+  "name": "VAIDU Medical AI",
+  "short_name": "VAIDU",
+  "description": "AI Doctor for Rural India",
+  "theme_color": "#0f7b6b",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": []
+}

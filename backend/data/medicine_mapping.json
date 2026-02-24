@@ -1,0 +1,158 @@
+{
+  "Crocin": {
+    "generic": "Paracetamol",
+    "nppa_rate": 2.0,
+    "strength": "500mg",
+    "category": "Analgesic"
+  },
+  "Dolo": {
+    "generic": "Paracetamol",
+    "nppa_rate": 2.0,
+    "strength": "650mg",
+    "category": "Analgesic"
+  },
+  "Augmentin": {
+    "generic": "Amoxicillin+Clavulanate",
+    "nppa_rate": 15.0,
+    "strength": "625mg",
+    "category": "Antibiotic"
+  },
+  "Azithral": {
+    "generic": "Azithromycin",
+    "nppa_rate": 12.0,
+    "strength": "500mg",
+    "category": "Antibiotic"
+  },
+  "Ciprofloxacin": {
+    "generic": "Ciprofloxacin",
+    "nppa_rate": 8.0,
+    "strength": "500mg",
+    "category": "Antibiotic"
+  },
+  "Pantoprazole": {
+    "generic": "Pantoprazole",
+    "nppa_rate": 5.0,
+    "strength": "40mg",
+    "category": "Antacid"
+  },
+  "Pan": {
+    "generic": "Pantoprazole",
+    "nppa_rate": 5.0,
+    "strength": "40mg",
+    "category": "Antacid"
+  },
+  "Omez": {
+    "generic": "Omeprazole",
+    "nppa_rate": 4.0,
+    "strength": "20mg",
+    "category": "Antacid"
+  },
+  "Metformin": {
+    "generic": "Metformin",
+    "nppa_rate": 3.0,
+    "strength": "500mg",
+    "category": "Antidiabetic"
+  },
+  "Glycomet": {
+    "generic": "Metformin",
+    "nppa_rate": 3.0,
+    "strength": "500mg",
+    "category": "Antidiabetic"
+  },
+  "Glimepiride": {
+    "generic": "Glimepiride",
+    "nppa_rate": 6.0,
+    "strength": "2mg",
+    "category": "Antidiabetic"
+  },
+  "Amlodipine": {
+    "generic": "Amlodipine",
+    "nppa_rate": 2.5,
+    "strength": "5mg",
+    "category": "Antihypertensive"
+  },
+  "Telma": {
+    "generic": "Telmisartan",
+    "nppa_rate": 8.0,
+    "strength": "40mg",
+    "category": "Antihypertensive"
+  },
+  "Atorvastatin": {
+    "generic": "Atorvastatin",
+    "nppa_rate": 5.0,
+    "strength": "10mg",
+    "category": "Statin"
+  },
+  "Rosuvastatin": {
+    "generic": "Rosuvastatin",
+    "nppa_rate": 7.0,
+    "strength": "10mg",
+    "category": "Statin"
+  },
+  "Aspirin": {
+    "generic": "Aspirin",
+    "nppa_rate": 1.0,
+    "strength": "75mg",
+    "category": "Antiplatelet"
+  },
+  "Ecosprin": {
+    "generic": "Aspirin",
+    "nppa_rate": 1.0,
+    "strength": "75mg",
+    "category": "Antiplatelet"
+  },
+  "Clopidogrel": {
+    "generic": "Clopidogrel",
+    "nppa_rate": 10.0,
+    "strength": "75mg",
+    "category": "Antiplatelet"
+  },
+  "Cetirizine": {
+    "generic": "Cetirizine",
+    "nppa_rate": 2.0,
+    "strength": "10mg",
+    "category": "Antihistamine"
+  },
+  "Montelukast": {
+    "generic": "Montelukast",
+    "nppa_rate": 8.0,
+    "strength": "10mg",
+    "category": "Anti-asthmatic"
+  },
+  "Levocetrizine": {
+    "generic": "Levocetrizine",
+    "nppa_rate": 3.0,
+    "strength": "5mg",
+    "category": "Antihistamine"
+  },
+  "Ranitidine": {
+    "generic": "Ranitidine",
+    "nppa_rate": 3.0,
+    "strength": "150mg",
+    "category": "Antacid"
+  },
+  "Domperidone": {
+    "generic": "Domperidone",
+    "nppa_rate": 4.0,
+    "strength": "10mg",
+    "category": "Antiemetic"
+  },
+  "Ondansetron": {
+    "generic": "Ondansetron",
+    "nppa_rate": 6.0,
+    "strength": "4mg",
+    "category": "Antiemetic"
+  },
+  "Diclofenac": {
+    "generic": "Diclofenac",
+    "nppa_rate": 3.0,
+    "strength": "50mg",
+    "category": "NSAID"
+  },
+  "Ibuprofen": {
+    "generic": "Ibuprofen",
+    "nppa_rate": 2.0,
+    "strength": "400mg",
+    "category": "NSAID"
+  }
+}

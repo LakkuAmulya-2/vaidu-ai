@@ -1,0 +1,112 @@
+{
+  "MRI Brain": {
+    "cghs_rate": 3200,
+    "description": "MRI Brain with contrast",
+    "category": "Radiology"
+  },
+  "MRI Spine": {
+    "cghs_rate": 3200,
+    "description": "MRI Spine (Cervical/Thoracic/Lumbar)",
+    "category": "Radiology"
+  },
+  "CT Scan Chest": {
+    "cghs_rate": 1800,
+    "description": "CT Scan Chest with contrast",
+    "category": "Radiology"
+  },
+  "CT Scan Brain": {
+    "cghs_rate": 1800,
+    "description": "CT Scan Brain",
+    "category": "Radiology"
+  },
+  "CT Scan Abdomen": {
+    "cghs_rate": 2000,
+    "description": "CT Scan Abdomen and Pelvis",
+    "category": "Radiology"
+  },
+  "Ultrasound Abdomen": {
+    "cghs_rate": 500,
+    "description": "Ultrasound whole abdomen",
+    "category": "Radiology"
+  },
+  "X-Ray Chest": {
+    "cghs_rate": 150,
+    "description": "X-Ray Chest PA view",
+    "category": "Radiology"
+  },
+  "ECG": {
+    "cghs_rate": 50,
+    "description": "Electrocardiogram",
+    "category": "Cardiology"
+  },
+  "Echo Cardiography": {
+    "cghs_rate": 800,
+    "description": "2D Echo with Doppler",
+    "category": "Cardiology"
+  },
+  "Blood Sugar Fasting": {
+    "cghs_rate": 30,
+    "description": "Fasting Blood Sugar",
+    "category": "Pathology"
+  },
+  "HbA1c": {
+    "cghs_rate": 250,
+    "description": "Glycated Hemoglobin",
+    "category": "Pathology"
+  },
+  "Complete Blood Count": {
+    "cghs_rate": 100,
+    "description": "CBC with ESR",
+    "category": "Pathology"
+  },
+  "Lipid Profile": {
+    "cghs_rate": 200,
+    "description": "Complete Lipid Profile",
+    "category": "Pathology"
+  },
+  "Liver Function Test": {
+    "cghs_rate": 250,
+    "description": "LFT Complete",
+    "category": "Pathology"
+  },
+  "Kidney Function Test": {
+    "cghs_rate": 200,
+    "description": "KFT Complete",
+    "category": "Pathology"
+  },
+  "Thyroid Profile": {
+    "cghs_rate": 300,
+    "description": "T3, T4, TSH",
+    "category": "Pathology"
+  },
+  "ICU Per Day": {
+    "cghs_rate": 5000,
+    "description": "ICU charges per day",
+    "category": "Hospital"
+  },
+  "General Ward Per Day": {
+    "cghs_rate": 1000,
+    "description": "General ward per day",
+    "category": "Hospital"
+  },
+  "OT Charges Major": {
+    "cghs_rate": 8000,
+    "description": "Operation Theatre charges for major surgery",
+    "category": "Hospital"
+  },
+  "OT Charges Minor": {
+    "cghs_rate": 2000,
+    "description": "Operation Theatre charges for minor surgery",
+    "category": "Hospital"
+  },
+  "Consultation General": {
+    "cghs_rate": 200,
+    "description": "General physician consultation",
+    "category": "Consultation"
+  },
+  "Consultation Specialist": {
+    "cghs_rate": 400,
+    "description": "Specialist consultation",
+    "category": "Consultation"
+  }
+}
