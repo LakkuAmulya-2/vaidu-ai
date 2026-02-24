@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏥 VAIDU - AI Medical Assistant for Rural India
+# 🏥 VAIDU - Multilingual healthcare platform for Rural India
 
 ### Democratizing Healthcare Access Through AI-Powered Multilingual Medical Guidance
 
@@ -1025,20 +1025,6 @@ We welcome contributions! Here's how you can help:
 - Maintain >80% code coverage
 - All tests must pass before merging
 
----
-
-## 📄 Documentation
-
-### Available Documentation
-
-1. **[README.md](README.md)** - This file (project overview)
-2. **[PROJECT_REPORT.md](PROJECT_REPORT.md)** - Comprehensive project report
-3. **[TELUGU_PROJECT_SUMMARY.md](TELUGU_PROJECT_SUMMARY.md)** - Telugu summary
-4. **[QUICK_START_GUIDE.md](QUICK_START_GUIDE.md)** - 10-minute setup guide
-5. **[BACKEND_SETUP.md](BACKEND_SETUP.md)** - Detailed backend setup
-6. **[BILLING_SETUP_GUIDE.md](BILLING_SETUP_GUIDE.md)** - Google Cloud billing
-7. **[BILLSAATHI_IMPLEMENTATION.md](BILLSAATHI_IMPLEMENTATION.md)** - BillSaathi details
-8. **[GITHUB_PUSH_GUIDE.md](GITHUB_PUSH_GUIDE.md)** - GitHub deployment
 
 ### API Documentation
 
@@ -1233,7 +1219,7 @@ If you use VAIDU in your research or project, please cite:
 
 ```bibtex
 @software{vaidu2026,
-  title = {VAIDU: AI Medical Assistant for Rural India},
+  title = {VAIDU:  Multilingual healthcare platform for Rural India},
   author = {[Your Name]},
   year = {2026},
   url = {https://github.com/LakkuAmulya-2/vaidu-ai},
