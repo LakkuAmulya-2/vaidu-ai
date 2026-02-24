@@ -10,7 +10,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-5.x-blue.svg)](https://www.typescriptlang.org/)
 
-[Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-technology-stack) • [Quick Start](#-quick-start) • [Documentation](#-documentation)
+[Features](#-features) • [Architecture](#-architecture) • [Tech Stack](#-technology-stack) • [Quick Start](#-quick-start) 
 
 </div>
 
